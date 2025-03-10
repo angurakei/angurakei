@@ -1,3 +1,7 @@
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312jn2wjs4n4urso7liwgsknpsuq&cover_image=false&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+  
+  
+  
   ![SFSD](https://github.com/user-attachments/assets/0060af3c-f208-46be-bbb8-15499f3c7b62)
 
 
