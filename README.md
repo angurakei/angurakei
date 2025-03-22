@@ -1,4 +1,4 @@
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312jn2wjs4n4urso7liwgsknpsuq&cover_image=true&theme=novatorem&show_offline=false&background_color=ffe5e5&interchange=false&bar_color=f8bac6&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312jn2wjs4n4urso7liwgsknpsuq&cover_image=true&theme=novatorem&show_offline=true&background_color=ffe5e5&interchange=false&bar_color=f8bac6&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ![𝐒𝐊𝟖 𝐓𝐇𝐄 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘 ➵ 𝐭𝐫𝐚𝐬𝐡 𝟏_](https://github.com/user-attachments/assets/f6e4e397-165d-4114-9eab-49e8dfb6e6b3)
 
