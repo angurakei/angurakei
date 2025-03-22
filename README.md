@@ -1,6 +1,6 @@
 <div align="center">
 
-  ⊹ ࣪ ˖  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312jn2wjs4n4urso7liwgsknpsuq&cover_image=false&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=fbb7c8&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)  ˖ ࣪ ⊹
+  ⊹ ࣪ ˖  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312jn2wjs4n4urso7liwgsknpsuq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=f4b8d0&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)  ˖ ࣪ ⊹
 </div>
 <div align="center">
 
