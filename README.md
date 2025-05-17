@@ -4,8 +4,7 @@
 </div>
 <div align="center">
 
-![𝐒𝐊𝟖 𝐓𝐇𝐄 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘 ➵ 𝐭𝐫𝐚𝐬𝐡 𝟏_](https://github.com/user-attachments/assets/e43a19b5-d115-4ca1-8009-235cc31c121f)
-
+![https://i.imgur.com/oQ8NuCR.gif](https://i.imgur.com/oQ8NuCR.gif)
 </div>
 <!--
 **angurakei/angurakei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
