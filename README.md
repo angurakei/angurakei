@@ -4,7 +4,7 @@
 </div>
 <div align="center">
 
-![https://i.imgur.com/oQ8NuCR.gif](https://i.imgur.com/oQ8NuCR.gif)
+![[https://i.imgur.com/oQ8NuCR.gif](https://i.imgur.com/oQ8NuCR.gif)](https://media.tenor.com/MZtq_bbIG0sAAAAd/angel-devil-chainsaw-man.gif)
 </div>
 <!--
 **angurakei/angurakei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
